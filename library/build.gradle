@@ -1,12 +1,12 @@
 apply plugin: 'android-library'
 
 dependencies {
-  compile 'com.android.support:support-v4:19.0.+'
+  compile 'com.android.support:support-v4:19.+'
 }
 
 android {
   compileSdkVersion 14
-  buildToolsVersion '19.0.1'
+  buildToolsVersion '19.0.3'
 
   sourceSets {
     main {
